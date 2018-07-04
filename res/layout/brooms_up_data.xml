@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+
+        <TextView
+         
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Which team scored on brooms up?" />
+
+        <RadioGroup
+            android:id="@+id/radioBUS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radioBUS00"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+       
+                android:text="No Team" />
+
+            <RadioButton
+                android:id="@+id/radioBUS01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+
+            <RadioButton
+                android:id="@+id/radioBUS02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+        </RadioGroup>
+    
+        <TextView
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Which team ended up with possession after the brooms up drive?" />
+
+
+
+        <RadioGroup
+            android:id="@+id/radioBUAfter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+         
+            <RadioButton
+                 android:id="@+id/radioBUAfter01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+
+            <RadioButton
+                 android:id="@+id/radioBUAfter02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+        </RadioGroup>
+  
+
+   
+
+        <TextView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Which team ended up with bludger control after the brooms up drive?" 
+            android:layout_marginTop="30dp"/>
+
+        <RadioGroup
+            android:id="@+id/radioBUBC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+          
+
+            <RadioButton
+                android:id="@+id/radioBUBC01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+
+            <RadioButton
+                android:id="@+id/radioBUBC02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RadioButton" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_marginTop = "30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter" />
+
+</LinearLayout>
+</ScrollView>

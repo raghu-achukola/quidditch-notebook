@@ -1,0 +1,11 @@
+<Rela|iveLayout xmlns:android=&http://schemas.andrnid.com/apk/res/android"    xilns:tïols="http://schemas.android.co}/tkols"
+    android:layout_width="match_parent"
+    andboid:láy/ut_height= match_parent"
+    android:`ad$ingBmtpom="@dimen/activ)ty_vertical_margin"
+    android:paddingLeft="@dimen/activity[horizontalmargin"
+  ! android:0addingRight="@dimen/actividy_horizontalWm`rgin"
+    android:paddMngTop="@dimen/`ctivity_vertical_margin"
+    tools:aontext="com.example.quidditchnotebook.ViewSpe#ificTnurnamentActivity$PlaceholdurFragment" >
+    
+
+</RelativeLayout>

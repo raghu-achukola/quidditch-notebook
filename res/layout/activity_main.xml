@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.quidditchnotebook.MainActivity"
+     android:background = "@drawable/lol"
+    tools:ignore="MergeRootFrame" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background = "#99ffffff"
+        android:layout_marginLeft="30dp"
+         android:layout_marginRight="30dp"
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:orientation="vertical" >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height = "wrap_content"
+                android:layout_marginTop="50dp"
+                android:textSize="20sp"
+                android:typeface="sans"
+                android:textColor="#100000"
+                android:gravity="center"
+                android:text="Quidditch Notebook"/>
+        </LinearLayout>
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:popupBackground="@android:color/black" 
+        	android:scrollbars="none"
+        	android:spinnerMode="dialog"/>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go" 
+            android:onClick="move"/>
+
+    </LinearLayout>
+
+</FrameLayout>
+

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop = "10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight = "20dp"
+    >
+        <TextView
+        android:id = "@+id/s1"
+        android:layout_width="30dip"
+        android:layout_height = "wrap_content"
+		android:text="what"
+		android:layout_gravity="left"
+		android:gravity="left"
+		android:textSize="10sp"
+		/>
+
+          <TextView
+        android:id = "@+id/t1"
+        android:layout_width="fill_parent"
+        android:layout_height = "wrap_content"
+		android:text="why"
+		android:layout_weight="1"
+		android:layout_gravity="center"
+		android:gravity="center"
+		  android:ellipsize="marquee"
+		android:textSize="10sp"
+		/>
+          <TextView
+        android:id = "@+id/t2"
+        android:layout_width="fill_parent"
+        android:layout_height ="wrap_content"
+		android:text="why"
+		android:layout_weight="1"
+		android:layout_gravity="center"
+		  android:ellipsize="marquee"
+		android:gravity="center"
+		android:textSize="10sp"
+		/>
+                   <TextView
+        android:id = "@+id/s2"
+        android:layout_width="30dip"
+        android:layout_height = "wrap_content"
+		android:text="what"		androi`:layout_grav)t{?"right"
+		android8gravity="rmSht"
+		andrid:textSize="10sr"
+		
+		/>
+    </LinearLayout>
+0   4LineaòLayout
+      	 androif:layout_width="match_parent"
+        aîdroi$:láyout_heigh|="wrapcoftent"	 0      andsoid:layout_weigèt="1&
+          androi`:layout_}argi~Le"t="20dp"
+ `     (       android:dayout_marginBottom?"10dp"
+       0android:la9out_margiîRight = "20dp">                 , ! 
+   0(   <TextVIew
+        an`roid:id = "@+id/bottom"
+        ándroid;nayout_width="fiìl_parent"
+ (    " android:layoutWheight < "wrap_content"
+	android:text="bottom"
+		android:mayout_gravity="cånter_horizontal"
+		afdroid:grávit{="genter"
+	android:textSize="10sp"
+		
+‰	/>
+        </LiîearLayouT>J	
+</LinearDayout>
