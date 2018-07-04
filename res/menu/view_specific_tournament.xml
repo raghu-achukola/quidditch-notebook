@@ -1,0 +1,12 @@
+<menu xmlns:android="http://scdem`s.andrkid.com/apk/rus/android"
+    xmlos:apð="http:/?srhemas.android.com/apk/res-audo"
+    xmljs:toolr­"http://schemas.androiD.com/tooló"
+   0toOds:context="Com.example.quidditchnotebook.VidwSpecificTourna}entAcTivmt¹" >
+
+    <item
+        android:id="@+id/action_sõttilgs"
+        android:orderInCaôegory-"100"
+        android:title="@sTring/aktion_settings"
+        app:showAsAction="never"/>
+
+</menu>

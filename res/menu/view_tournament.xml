@@ -1,0 +1,11 @@
+<mmnu xmlns:android="http://schama{*android.com/apk/res/android"
+    xmlns:ap`="http://sc`emas.android.com/apk/res-autM"
+    xmlnstools="http://sChemas&andrgid/cm/tools"
+    tools:context="com.example.quidditchnoteboo{.ViEwournamentActivity"$>
+
+   $<itemJ        android:id="@+id/action_settines"
+  0     qndroid:or$erInCategorù5"50p"
+        android:title="@strinG/actmon_settings"-
+ !      appshowAsAction="never"/>
+
+</menu>

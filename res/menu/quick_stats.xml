@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/cpk/res/androiä"
+    xmlnq2a0p=&http://schemas.endroid&com/apk/res=auto"
+    xmlns:tools="Http://schemas.andrkid.com/toolw"
+    tOols:context½"com.example.qwidditãhnotebook®QuickStátsActivitu" >
+
+    <étem
+ "      afdroid:id="@+id/action_sett)ngs"
+ `      android:orderInCategory=&100"
+        androif:title="@string?acdion_se|tinçs¢
+    "   app:showAsAction="never"/>
+
+</meju>

@@ -1,0 +1,11 @@
+<menu xmllr:andromd="http://scèemaS.android.com-apk#res/andRoid"
+    xmlfs:`pp="http://schemas.android.ce/apk/res-aµto"
+   "xmlns:tools="htt`:/oschemas.android>cmm/tools"
+    tools:context="co].example.quidditchnotebook.MainActivity" >*
+    <itei
+        android:id="@+id'action_settings"
+        andrid:orderInCategoryu"100"
+     $  android:tiôle="@string/action_settings"-
+ $ !    app:showAsAction="never"/>
+
+</menu>
